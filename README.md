@@ -2,9 +2,9 @@
 
 **`Analista de Dados`**
 
-Olá! Me chamo Rhyan Carvalho e sou do Rio de Janeiro. Sou Bacharel em Direito com vivência prática na Defensoria Pública do RJ, e atualmente estou em transição de carreira para a área de **Análise de Dados**. 
+Olá! Meu nome é Rhyan Carvalho. Sou do Rio de Janeiro e atuo na área de **Análise de Dados**. 
 
-Aplico minha capacidade investigativa, rigor metodológico e visão de governança (Compliance e LGPD) para solucionar problemas de negócios através dos dados. Sou apaixonado por transformar bases de dados complexas em relatórios visuais e decisões estratégicas.
+Minha formação original é em Direito, com atuação prática na Defensoria Pública do RJ. Essa vivência me ajudou a desenvolver um forte perfil investigativo, muita atenção aos detalhes e uma base sólida em governança (LGPD e Compliance). Hoje, conecto essa bagagem analítica ao mundo da tecnologia, utilizando ferramentas para transformar bases de dados complexas em relatórios visuais que facilitam a tomada de decisões.
 
 <p align="left">
     <a href="https://www.linkedin.com/in/rhycarvalho/">
@@ -39,8 +39,6 @@ Aplico minha capacidade investigativa, rigor metodológico e visão de governan�
   <img align="left" alt="Python" title="Python" width="35px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
   <img align="left" alt="SQL" title="SQL" width="35px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
   <img align="left" alt="Pandas" title="Pandas" width="35px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" />
-  <img align="left" alt="AWS" title="AWS" width="35px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
-  <img align="left" alt="Git" title="Git" width="35px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 </p>
 <br/><br/>
 
@@ -54,20 +52,5 @@ Aplico minha capacidade investigativa, rigor metodológico e visão de governan�
 
 ### 📊 Estatísticas
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="190" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=rhycarvalho&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-  <img 
-      align="left" 
-      alt="Top Linguagens" 
-      height="190" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhycarvalho&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=5" 
-  />
-</p>
-<br clear="both">
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rhycarvalho&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br)](https://github.com/rhycarvalho)
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=rhycarvalho&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=5)](https://github.com/rhycarvalho)
