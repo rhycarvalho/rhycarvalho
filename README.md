@@ -2,9 +2,10 @@
 
 **`Analista de Dados`**
 
-Olá! Meu nome é Rhyan Carvalho. Sou do Rio de Janeiro e atuo na área de **Análise de Dados**. 
+Olá! Me chamo Rhyan Carvalho e sou do Rio de Janeiro. Sou Bacharel em Direito com vivência prática na Defensoria Pública do RJ e também Administração, e atualmente estou em transição de carreira para a área de **Análise de Dados**.
 
-Minha formação original é em Direito, com atuação prática na Defensoria Pública do RJ. Essa vivência me ajudou a desenvolver um forte perfil investigativo, muita atenção aos detalhes e uma base sólida em governança (LGPD e Compliance). Hoje, conecto essa bagagem analítica ao mundo da tecnologia, utilizando ferramentas para transformar bases de dados complexas em relatórios visuais que facilitam a tomada de decisões.
+A rotina na Defensoria Pública me ensinou a investigar a fundo, cruzar informações difíceis e ter um cuidado especial com regras e governança (LGPD). Hoje, levo exatamente esse mesmo rigor analítico para a tecnologia: troquei a pesquisa de processos pelas bases de dados. Utilizo ferramentas como SQL e Power BI para organizar informações confusas e criar painéis visuais que respondem às perguntas certas e facilitam a decisão.
+
 
 <p align="left">
     <a href="https://www.linkedin.com/in/rhycarvalho/">
