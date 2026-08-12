@@ -23,8 +23,3 @@ Olá! Me chamo Rhyan Carvalho e sou do Rio de Janeiro. Sou Bacharel em Direito c
 </p>
 
 <br/>
-
-### 📊 Estatísticas
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rhycarvalho&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br)](https://github.com/rhycarvalho)
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=rhycarvalho&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=5)](https://github.com/rhycarvalho)
